@@ -1,7 +1,7 @@
 Tremolec
 
 トレモロを周波数帯域別にかけるというエフェクターです。
-ブログ記事→https://drugscore.blog.fc2.com/blog-entry-243.html
+製作記事→https://kanengomibako.github.io/pages/00243.html
 
 ＜パーツリスト＞
 2	220p	[1608] C3, C4
